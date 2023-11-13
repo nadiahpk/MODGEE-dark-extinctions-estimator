@@ -14,5 +14,5 @@ Chisholm, R.A. (2023) Two centuries of biodiversity discovery and loss in Singap
 
 ## Related projects
 
-The more basic SEUX method, which requires as input only first0 and last-record dates, was applied to mammals, reptiles, fish, bees, phasmids, and decapod crustaceans. It can be found here: https://github.com/nadiahpk/seux
+The more basic SEUX method, which requires as input only first- and last-record dates, was applied to mammals, reptiles, fish, bees, phasmids, and decapod crustaceans. It can be found here: https://github.com/nadiahpk/seux
 

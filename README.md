@@ -6,7 +6,7 @@ This code implements the 'matrix of detections gives extinction estimates' or MO
 
 ## About the manuscript
 
-Chisholm, R.A. (2023) Two centuries of biodiversity discovery and loss in Singapore, *PNAS*
+Chisholm, R.A. _et al._ (2023) Two centuries of biodiversity discovery and loss in Singapore, *PNAS*
 
 ## Abstract
 
